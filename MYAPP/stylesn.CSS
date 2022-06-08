@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    background-color: lightblue;
+    flex-wrap: wrap;
+    align-items: center;
+    
+
+}
+.container> div{
+background-color: lightgoldenrodyellow;
+margin: 10px;
+padding: 20px; 
+font-size: 30px; 
+width: 200px; 
+height: 200px;
+}    
